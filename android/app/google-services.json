@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599090435663",
+    "project_id": "car-rent-45630",
+    "storage_bucket": "car-rent-45630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599090435663:android:203c4798165415920abc3a",
+        "android_client_info": {
+          "package_name": "com.example.hair_salon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdpKYV7r-IBQjWxdxpijxzSmmNiajJ3KA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
