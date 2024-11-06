@@ -1,4 +1,4 @@
-# rent_car_app
+# hair_salon
 
 A new Flutter project.
 
